@@ -1,0 +1,39 @@
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+.search-container {
+    display: flex;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 3px solid palevioletred;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 0;
+}
+
+.buttonSearch {
+    justify-content: center;
+    display: flex;
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    border-radius: 0;
+}
+
+button:hover {
+    background-color: powderblue;
+    color: palevioletred;
+}

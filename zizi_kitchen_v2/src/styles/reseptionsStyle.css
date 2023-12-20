@@ -1,0 +1,42 @@
+.quotetwo {
+    margin: 22px auto;
+    width: 60%;
+    display: flex;
+    text-align: center;
+    font-size: 17px;
+    padding-bottom: 33px;
+    padding-top: 120px;
+}
+
+.reseptionsNav {
+    text-align: center;
+}
+
+.linkRes {
+    color: palevioletred;
+    text-decoration: none;
+    font-size: 20px;
+
+    margin-right: 28px;
+    transition: color 0.2s linear;
+}
+
+.linkRes:hover {
+    color: #2C2C2C;
+}
+
+.adBook {
+    margin-left: 160px;
+    margin-top: 70px;
+    width: 800px;
+    padding: 90px;
+    background-color: palevioletred;
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.adText {
+    padding-top: 30px;
+    color: whitesmoke;
+    padding-left: 65px;
+}

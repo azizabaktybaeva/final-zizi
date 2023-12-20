@@ -1,0 +1,35 @@
+.helloYT {
+    padding-top: 130px;
+    display: flex;
+    padding-left: 140px;
+    padding-bottom: 40px;
+}
+
+.performYT {
+    height: 510px;
+    background-color: palevioletred;
+    width: 35%;
+    padding: 30px;
+    color: whitesmoke;
+}
+
+.listOfBloggers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.columnTop {
+    margin: 20px;
+}
+
+.listTop {
+    font-size: 24px;
+}
+
+.lineY {
+    padding-bottom: 150px;
+    border-top: 3px solid palevioletred;
+    margin: 22px auto;
+    width: 91.5%;
+}
